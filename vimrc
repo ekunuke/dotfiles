@@ -14,6 +14,3 @@ hi CursorColumn cterm=NONE ctermbg=darkblue ctermfg=white
 nnoremap c :set cursorline! cursorcolumn!<CR>
 
 set colorcolumn=80
-
-filetype plugin indent on
-call pathogen#infect()
